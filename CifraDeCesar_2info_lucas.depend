@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692728778 source:/home/alunos/Downloads/CifraDeCesar_2info_lucas/main.cpp
+	<iostream>
+	<fstream>
+
